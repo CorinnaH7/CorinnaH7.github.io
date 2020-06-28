@@ -13,5 +13,10 @@ His adversaries always try to achiev ultimate power througout the world, and 007
 * good oldfashioned manners
 * never gets older
 
+## Famous quote
+
+> My name is Bond.
+> James Bond.
+
 
 
